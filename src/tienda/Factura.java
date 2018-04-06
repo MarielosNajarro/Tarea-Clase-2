@@ -29,7 +29,7 @@ public class Factura {
         this.cantidadProductos = cantidadProductos;
     }
 
-    public void setTota(double total) {
+    public void setTotal(double total) {
         this.total = total;
     }
 }
